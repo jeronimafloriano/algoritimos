@@ -15,5 +15,7 @@ public class Main {
     for(int i : arrayOrdenado) {
       System.out.println(i);
     }
+
+    Recursao.contagemRegressiva(5);
   }
 }
